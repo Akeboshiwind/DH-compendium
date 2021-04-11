@@ -24,7 +24,7 @@
     {
       "name": "dh-talents",
       "label": "Dark Heresy Talents",
-      "system": "dark-heresy",
+      "module": "dh-compendium",
       "path": "./packs/dh-talents.db",
       "entity": "Item"
     }
