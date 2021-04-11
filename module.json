@@ -1,0 +1,41 @@
+{
+  "name": "dh-compendium",
+  "title": "Dark Heresy Compendium",
+  "description": "A compendium of the talent & items from Dark Heresy and other extensions to the system",
+  "version": "This is auto replaced",
+  "library": "false",
+  "manifestPlusVersion": "1.0.0",
+  "minimumCoreVersion": "0.7.9",
+  "compatibleCoreVersion": "0.7.9",
+  "authors": [
+    {
+      "name": "Oliver Marshall",
+      "url": "https://github.com/Akeboshiwind",
+      "discord": "Akeboshiwind#8958"
+    }
+  ],
+  "dependencies": [
+  ],
+  "conflicts": [
+  ],
+  "esmodules": [
+  ],
+  "packs": [
+    {
+      "name": "dh-talents",
+      "label": "Dark Heresy Talents",
+      "system": "dark-heresy",
+      "path": "./packs/dh-talents.db",
+      "entity": "Item"
+    }
+  ],
+  "url": "This is auto replaced",
+  "manifest": "This is auto replaced",
+  "download": "This is auto replaced",
+  "media": [
+    {
+      "type": "icon",
+      "url": "https://avatars.githubusercontent.com/u/8889986?v=4"
+    }
+  ]
+}
