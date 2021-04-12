@@ -55,6 +55,13 @@
       "module": "dh-compendium",
       "path": "./packs/dh-explosive-ammunition.db",
       "entity": "Item"
+    },
+    {
+      "name": "dh-special-ammunition",
+      "label": "Dark Heresy Special Ammunition",
+      "module": "dh-compendium",
+      "path": "./packs/dh-special-ammunition.db",
+      "entity": "Item"
     }
   ],
   "url": "This is auto replaced",
