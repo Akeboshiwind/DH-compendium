@@ -34,6 +34,13 @@
       "module": "dh-compendium",
       "path": "./packs/dh-ranged-weapons.db",
       "entity": "Item"
+    },
+    {
+      "name": "dh-melee-weapons",
+      "label": "Dark Heresy Melee Weapons",
+      "module": "dh-compendium",
+      "path": "./packs/dh-melee-weapons.db",
+      "entity": "Item"
     }
   ],
   "url": "This is auto replaced",
