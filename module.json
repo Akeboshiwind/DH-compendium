@@ -41,6 +41,20 @@
       "module": "dh-compendium",
       "path": "./packs/dh-melee-weapons.db",
       "entity": "Item"
+    },
+    {
+      "name": "dh-grenade-weapons",
+      "label": "Dark Heresy Grenade Weapons",
+      "module": "dh-compendium",
+      "path": "./packs/dh-grenade-weapons.db",
+      "entity": "Item"
+    },
+    {
+      "name": "dh-explosive-ammunition",
+      "label": "Dark Heresy Explosive Ammunition",
+      "module": "dh-compendium",
+      "path": "./packs/dh-explosive-ammunition.db",
+      "entity": "Item"
     }
   ],
   "url": "This is auto replaced",
