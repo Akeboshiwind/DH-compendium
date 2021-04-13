@@ -69,6 +69,13 @@
       "module": "dh-compendium",
       "path": "./packs/dh-tools.db",
       "entity": "Item"
+    },
+    {
+      "name": "dh-gear",
+      "label": "Dark Heresy Gear",
+      "module": "dh-compendium",
+      "path": "./packs/dh-gear.db",
+      "entity": "Item"
     }
   ],
   "url": "This is auto replaced",
