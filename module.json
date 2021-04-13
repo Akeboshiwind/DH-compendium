@@ -76,6 +76,13 @@
       "module": "dh-compendium",
       "path": "./packs/dh-gear.db",
       "entity": "Item"
+    },
+    {
+      "name": "dh-cybernetics",
+      "label": "Dark Heresy Cybernetics",
+      "module": "dh-compendium",
+      "path": "./packs/dh-cybernetics.db",
+      "entity": "Item"
     }
   ],
   "url": "This is auto replaced",
