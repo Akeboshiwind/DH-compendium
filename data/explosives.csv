@@ -1,0 +1,36 @@
+Name,Source,Type,Class,Range,Damage,Pen,Qualities,Wt,Availability,Book and Page#
+Anti-plant Grenade,Only War,Grenades,Thrown,SB*3,3d10E,0,Blast (3),0.5,Scarce,Core pg 183
+Black Powder Grenade,Trisdekan Primer,Grenades,Thrown,SB*3,1d10+4X,0,"Blast (3), Smoke (2)",0.5,Plentiful,V2 pg 32
+Blind Grenade,Only War,Grenades,Thrown,SB*3,2d10E,0,Smoke (3),0.5,Scarce,Core pg 183
+Concussion Grenade,Trisdekan Primer,Grenades,Thrown,SB*3,1d10+6X,2,"Blast (3), Concussive (1)",0.5,Average,V3 pg 32
+Fire Bomb Grenade,Only War,Grenades,Thrown,SB*3,1d10+3E,6,"Blast (3), Flame",0.5,Plentiful,Core pg 183
+Frag Grenade,Only War,Grenades,Thrown,SB*3,2d10X,0,"Blast (3), Ogryn-Proof",0.5,Common,Core pg 183
+Hallucinogen Grenade,Only War,Grenades,Thrown,SB*3,-,0,"Hallucinogenic (2), Blast (6)",0.5,Scarce,Core pg 183
+Haywire Grenade,Black Crusade,Grenades,Thrown,SB*3,-,0,Haywire (3),0.5,Very Rare,Core pg 159
+Iron-Eater Grenade,Only War,Grenades,Thrown,SB*3,2d10E,5,"Blast (2), Corrosive",0.5,Very Rare,
+Krak Grenade,Only War,Grenades,Thrown,SB*3,2d10+4X,6,"Concussive (0), Vengeful (9) vs vehicles",0.5,Rare,Core pg 183
+Maccabian Grenade,Only War,Grenades,Thrown,SB*3,2d10+1X,0,"Blast (3), Sanctified",0.5,Rare,
+Microgrenade (Frag),Rogue Trader,Grenades,Thrown,SB*3,2d10X,0,"Blast (2), Special",0.5,Extremely Rare,HA pg 53
+Microgrenade (Krak),Rogue Trader,Grenades,Thrown,SB*3,2d10+2X,5,Special,0.5,Extremely Rare,HA pg 53
+Photon Flash Grenade,Only War,Grenades,Thrown,SB*3,-,0,Blast (10),0.5,Rare,Core pg 183
+Rad Grenade,Black Crusade,Grenades,Thrown,SB*3,1d10E,0,"Blast (2), Irradiated (2)",1,Very Rare,ToD pg 45
+Smoke Grenade,Only War,Grenades,Thrown,SB*3,-,0,Smoke (6),0.5,Common,Core pg 183
+Stun Grenade,Only War,Grenades,Thrown,SB*3,-,0,"Blast (2), Concussive (2)",0.5,Common,Core pg 183
+Tube Charge,Only War,Grenades,Thrown,SB*2,3d10X,0,Blast (4),1,Scarce,
+Web Grenade,Black Crusade,Grenades,Thrown,SB*3,-,0,Snare (2),0.5,Rare,Core pg 159
+Cyclonic,Rogue Trader,Missiles,-,-,5d10+10X,1,"Dam Blast (15), Flame Blast (25)",1,Near Unique,FaC pg 86
+Frag,Only War,Missiles,-,-,2d10+2X,2,Blast (5),0.5,Average,Core pg 183
+Incendiary ,Deathwatch,Missiles,-,-,1d10+3E,0,"Blast (5), Flame",2,Rare,
+Krak,Only War,Missiles,-,-,3d10+8X,8,"Concussive (3), Proven (2), Vengeful (9)",0.5,Scarce,Core pg 183
+Minefield,Only War,Missiles,-,-,2d10X,1,Blast (1),0.5,Rare,Core pg 183
+Rad,Black Crusade,Missiles,-,-,1d10+4E,2,"Blast (4), Irradiated (4)",2,Extremely Rare,ToD pg 45
+Scatter,Only War,Missiles,-,-,2d10X,0,Blast (10),0.5,Rare,Core pg 183
+Web,Rogue Trader,Missiles,-,-,-,-,"Blast (6), Snare (4)",2,Rare,HA pg 53
+Anti-plant Round,Only War,Launcher Rounds,-,-,3d10E,0,Blast (5),1,Rare,Core pg 183
+Blind Round,Only War,Launcher Rounds,-,-,2d10E,0,Smoke (6),1,Rare,Core pg 183
+Frag Round,Only War,Launcher Rounds,-,-,2d10X,3,Blast (5),1,Common,Core pg 183
+Minefield Round,Only War,Launcher Rounds,-,-,2d10X,1,Blast (1),1,Rare,Core pg 183
+Photon Flash Round,Only War,Launcher Rounds,-,-,-,0,Blast (12),1,Rare,Core pg 183
+Scatter Round,Only War,Launcher Rounds,-,-,1d10+3X,0,Blast (7),1,Very Rare,Core pg 183
+Smoke Round,Only War,Launcher Rounds,-,-,-,0,Smoke (9),1,Scarce,Core pg 183
+Starflare Round,Only War,Launcher Rounds,-,-,-,0,-,1,Scarce,Core pg 183

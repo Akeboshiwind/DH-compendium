@@ -1,0 +1,74 @@
+Name,Source,Weapons that can use said Ammunition,Affect,Rarity,Book and page#
+"""Emperor's Light"" Thermal Bolts",Dark Heresy,All Crossbows,"Lose Primitive, Accurate, Gain 1d10E Damage and Pen 6, Melta, Inaccurate",Rare,EWi pg 46
+"""Emperor's Wrath"" Shard Bolts",Dark Heresy,All Crossbows,Gain Crippling (2),Scarce,EWi pg 47
+"""Heretic's Match"" Incendiary Bolts",Dark Heresy,"Bows, Crossbows, Shotguns",Gain Flame and Unreliable,Scarce,EWi pg 47
+Abyssal Bolts,Dark Heresy,"Bolt Weapons, crossbows","Gain Crippling (2), Tainted, but lose Reliable or Sanctified",Very Rare,2e EB pg 45
+Acid Shells,Rogue Trader,All Shotguns and all non-heavy Bolt Weapons,"Damage changes to 1d10, 0 Pen. Gain Corrosive",Very Rare,ItS:TEH pg 129
+Airtorch Canister,Rogue Trader,All Melta Weapons,"Gain Scatter, Overheat, 50% Range",Extremely Rare,ItS:TEH pg 129
+Amputator Shell,Only War,All non-heavy Solid Projectile Weapons,2+ Damage,Extremely Rare,Core pg 194
+Barbed Rounds,Black Crusade,Any Solid Projectile Weapon,Gain Crippling (1),Scarce,Core pg 173
+Bleeder Round,Only War,All non-heavy Solid Projectile Weapons,2+ Damage until combat ends,Rare,Core pg 194
+Blessed Ammunition,Rogue Trader,Any ammo that can be consecrated,Gain Sanctified,Extremely Rare,FaC pg 93
+"Bolt Shells, Modified",Rogue Trader,All Shotguns,"1d10+5X Pen 4, Gain Tearing, +30 meters, Unreliable",Rare,HA pg 61
+Breaching Rounds,Unknown,"Astartes Shotguns, Astartes Assault Shotguns",,Average,RoB pg 140
+Capacitor Rounds,Rogue Trader,"Shotguns, All non-heavy Bolt Weapons",Gain Shocking but -4 Damage,Rare,FaC pg 93
+Cryptus Shotgun Shells,Dark Heresy,All Shotguns,"Gain Sanctified, at Short Range Daemons must make a Toughness test or be blind",Rare,1e DH pg 75
+Dragonfire Bolts,Rogue Trader,All Bolt Weapons,"Gain Blast (2), Flame, -1 Damage",Very Rare,FaC pg 92
+Dumdum Bullets,Only War,All non-heavy Solid Projectile Weapons,2+ Damage. But AP is doubled,Scarce,Core pg 194
+Dummy Bolt,OWEA,All Bolt Weapons,-1 Damage and Pen,Scarce,OWEA pg 10
+Duplex Rounds,Trisdekan Primer,non-Shotgun Solid Projectile Weapons,2+ Damage and +10 to hit. 50% Range,Rare,Vol 3 pg 39
+Dust Cell,Trisdekan Primer,All Plasma Weapons,-25% clip but gain Shocking,Rare,Vol 3 pg 39
+Envenomed Ammunition,Only War,Any Low-Tech ranged Weapon,Gain Toxic (2),Scarce,HotE pg 124
+Executioner Shotgun Shells,Dark Heresy,All Shotguns,"4+ Damage, 1+ Pen, Special, Lose Scatter, RoF S/-/-",Very Rare,1e Ascension pg 148
+Expander Rounds,Only War,All non-heavy Solid Projectile Weapons,1+ Damage and Pen,Scarce,Core pg 194
+Explosive Slug,Only War,Longshot,A lot,Very Rare,SoH pg 131
+Filament Cell,Trisdekan Primer,All Plasma Weapons,Gains Accurate but 50% Range,Very Rare,Vol 3 pg 39
+Filament Rounds,OWEA,Basic and Pistol SP guns,1+ Damage and Felling (2),Very Rare,OWEA pg 11
+Flash Slug,Only War,Longshot,A lot,Very Rare,SoH pg 131
+Flechette Rounds,Rogue Trader,All Shotguns,"110% Range, 2+ Pen",Rare,HA pg 61
+Flechette Rounds (Toxic),Rogue Trader,All Shotguns,"110% Range, 2+ Pen, Toxic (2)",Very Rare,HA pg 61
+Fyceline-tipped Rounds,Rogue Trader,All non-heavy Solid Projectile Weapons,Basic+Heavy get 1+ and 3+ Damage respectively,Very Rare,HA pg 61
+Hellfire Rounds,Deathwatch,All Bolt Weapons,"Gain Vengeful (9), Ignore Natural Armour. In Heavy weapons RoF S/-/-, Gain Blast (3)",Very Rare,Core pg 160
+High Explosive Rounds,Rogue Trader,Autocannons,"Gain Blast (1), -2 Pen",Scarce,FaC pg 93
+High-grade Promethium,Black Crusade,All Flame Weapons,Range +20,Scarce,Core pg 174
+Hot-Shot Charge Pack,Only War,"Laspistols, lascarbines, lasguns, and long-las","1+ Damage, Tearing, 4 Pen. Lose Reliable and Clip is 1",Scarce,Core pg 195
+Ignis Rounds,Deathwatch,All non-heavy Solid Projectile Weapons,Gains Flame,Scarce,RoB pg 140
+Inferno Shell,Only War,All Shotguns and all bolt Weapons,Gains Flame,Rare,Core pg 195
+Kraken Rounds,Deathwatch,All Bolt Weapons,"Pen=8, 150% Range",Rare,Core pg 160
+Kroot Sniper Rounds,Unknown,Kroot Rifle,,Extremely Rare,Tau pg 27
+Lo-Charge Pack,Trisdekan Primer,All Las Weapons,"1+ Damage, gains Infiltrator but gains Recharge",Rare,Vol 3 pg 39
+Man-Stopper Bullets,Only War,All non-heavy Solid Projectile Weapons,3+ Pen,Scarce,Core pg 195
+Mars Pattern Charge Pack,Trisdekan Primer,All Las Weapons,"Gain Proven (5), Felling (2), Crippling (2)",Extremely Rare,Vol 3 pg 39
+Metal Storm Rounds,Deathwatch,All Bolt Weapons,"-2 Damage and Pen, Gain Blast (2)",Rare,Core pg 160
+Micro-blast Needles,Rogue Trader,Needle Pistols and Rifles,"Lose Toxic, 4+ Damage, Gain Tearing",Extremely Rare,HA pg 61
+Microburst Flask,Rogue Trader,All non-Heavy Plasma Weapons,"-2 Damage, 2+ Pen, 10+ meters, Lose Overheat, Maximal",Extremely Rare,ItS:TEH pg 129
+Nephium Fuel Tank,Rogue Trader,All Flame Weapons,"-10 to the Agi tests, 2+ Damage",Very Rare,ItS:TEH pg 129
+Nitidus Rounds,Dark Heresy,All Shotguns,A lot,Very Rare,2e EB pg 45
+Organgrinder Rounds,Rogue Trader,"Hand Cannons, Heavy Stubbers, and all Bolt Weapons",-20 Toughness Test or take 2d10 Damage not reduced by anything,Extremely Rare,ItS:TEH pg 129
+Penetrator Slug,Only War,Longshot,A lot,Very Rare,SoH pg 131
+Percussion (Bouncer) Rounds,OWEA,All Bolt Weapons,A lot,Rare,OWEA pg 11
+Percussion (Penetrator) Rounds,OWEA,All Bolt Weapons,-3 Damage and Pen=7. Pen =14 vs cover,Very Rare,OWEA pg 11
+Psybolts,Dark Heresy,All Bolt Weapons,"Gain Daemonbane, Sanctified, 1+ Damage per point of Psy Rating",Extremely Rare,2e EB pg 45
+Psyflame,Dark Heresy,All Flame Weapons,"Gain Sanctified, Ignore Psychic barriers, -5 to Agi per Psy rating",Very Rare,2e EB pg 45
+Purgatus Stakes,Dark Heresy,Purgatus Crossbow Only,"Gain Sanctified, A Psyker or Daemon must roll WP or roll Psychic Phenomena",Extremely Rare,EWi pg 47
+Purified Plasma,Black Crusade,Any Plasma Weapon,Lose Overheat,Very Rare,Core pg 174
+Purity Bolts,Dark Heresy,All Crossbows,Gain Haywire (2),Very Rare,EWi pg 47
+Pyre Rounds,Rogue Trader,All Solid Projectile Weapon,A lot,Near Unique,FaC pg 94
+QG Cell,Trisdekan Primer,All Plasma Weapons,"Concussive (6), Felling (4). Clip changes to 1",Near Unique,Vol 3 pg 39
+Sanctified Ammunition,Dark Heresy,"Bows, Crossbows, Flame, Solid Projectile Weapons",Gains Sanctified,Rare,2e EW pg 48
+Scrambler Rounds,Dark Heresy,Bolt and Solid Projectile Weapons,"Hallucinegenic (2), Recharge",Rare,2e Core pg 167
+Silver Stakes,Dark Heresy,All Crossbows,"Gain Sanctified, Gain 1d10 Damage vs Psyker and Daemons",Very Rare,EWi pg 47
+Snare Shells,Rogue Trader,All Shotguns,"-2 Damage, Snare (1)",Rare,ItS:TEH pg 129
+Solid Slugs,Only War,All Shotguns,"1+ Damage, 2+ Pen. Loses Scatter",Common,HotE pg 124
+Stalker Rounds,Deathwatch,All Bolt Weapons,"-2 Damage, -30 to Awareness to spot",Common,Core pg 161
+Stun Shells,Rogue Trader,All Shotguns,"Lose Scatter, Gain Shocking",Scarce,HA pg 62
+Sub-kerratic dispenser pack,OWEA,All Nonhotshot and Heavy Las Weapons,-1 Damage but 200% Ammo,Rare,OWEA pg 12
+Tempest Bolt Shell,Only War,All Bolt Weapons,"Gain Shocking, 3+ Damage to Machines",Extremely Rare,Core pg 195
+Theta-Pattern Concussion Bolts,Dark Heresy,All Crossbows,"Gain Blast (5), Concussive (5), -20 Str or be Thrown 1d5 meters",Very Rare,EWi pg 47
+Theta-Pattern Shock Bolts,Dark Heresy,All Crossbows,"Gain Shocking, 3+ DoF target falls unconcious",Very Rare,EWi pg 47
+Tox Rounds,Dark Heresy,All Bolt and Solid Projectile Weapons,"Gain Toxic (2), -2 Damage",Scarce,Core pg 174
+Toxin Slug,Only War,Longshot,A lot,Extremely Rare,SoH pg 131
+Toxin-saturated Promethium,Rogue Trader,All Flame Weapons,Gain Toxic (2),Rare,HA pg 62
+Tracer Rounds,Only War,Any Solid Projectile Weapon,A lot,Common,HotE pg 124
+Vengeance Rounds,Deathwatch,All Bolt Weapons,"Gain Felling (4), Pen=9, On result of Jam take damage to arm",Very Rare,Core pg 161
+Void Rounds,Rogue Trader,All Solid Projectile Weapons,Can be fired in Void with no penlty,Rare,ItS:TEH pg 130

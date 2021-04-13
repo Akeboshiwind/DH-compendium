@@ -1,0 +1,258 @@
+Name,Source,Tier,Prerequisites,Aptitude 1,Aptitude 2,Benefit,Book and page #
+Air of Authority,Only War,1,Fel 30,Fellowship,Leadership,Affect more targets with Command,
+Ambidexterous,Dark Heresy,1,Ag 30,Weapon Skill,Ballistic Skill,Reduce penalties for using two weapons.,
+Ambush,Only War,1,Stealth,Agility,Fieldcraft,Inflict additional Damage on Unaware targets.,
+Berserk Charge,Only War,1,-,Strength,Offence,Gain an extra bonus to hit when charging.,
+Blind Fighting,Dark Heresy,1,Per 30,Perception,Fieldcraft,Eliminates melee combat penalties for obscured vision.,
+Bodyguard,Dark Heresy,1,Ag 35,Agility,Defence,May take the hit instead of an ally, 2e EB pg 61
+Brute of Burden,Only War,1,Str 45,Strength,General,Character can carry larger loads and forced march for longer.,
+Catfall,Dark Heresy,1,Ag 30,Agility,Fieldcraft,Reduce falling damage.,
+Clues from the Crowds,Dark Heresy,1,Fel 30,General,Social,Can re-roll a test made to gather information from a group.,
+Cold Hearted,Only War,1,-,Willpower,Defence,"Immune to Seduction, resistant to Charm",
+Combat Formation,Only War,1,Int 40,Leadership,Fieldcraft,Use intelligence bonus for Initiative,
+Covering Fire,Trisdekan Primer,1,"BS 35, Ag 35",Ballistic Skill,Finesse,Use Overwatch to disrupt enemies,V2 pg 66
+Die Hard,Dark Heresy,1,WP 40,Willpower,Defence,Test Willpower to avoid Fatigue from Blood Loss,
+Disarm,Dark Heresy,1,Ag 30,Weapon Skill,Defence,Force opponent to drop weapon.,
+Disturbing Voice,Only War,1,-,Fellowship,Social," +10 to Intimidate, –10 to Charm.",
+Double Team,Dark Heresy,1,-,General,Offence,Gain additional +10 for outnumbering opponent.,
+Ears to the Ground,Only War,1,"Commerce, Perception 30",Perception,Social,Character gains a bonus to trade or barter goods and avoid official notice.,
+Enemy,Dark Heresy,1,-,General,Social,An organization or group particularly despises the character.,
+Evasive,Trisdekan Primer,1,Ag 35,Agility,Defence,Gain one-time bonus to dodge,V2 pg 67
+Excellent Cook,Only War,1,Trade (Cook) +10,Fieldcraft,General,Fix a hearty meal to provide squad mates with a bonus to resist Fear and Pinning.,
+Ferric Summons,Dark Heresy,1,"Ferric Lure Implants, Mechanicus Implants",Willpower,Tech,Can summon larger metallic objects,
+Firebug,Trisdekan Primer,1,Weapon Training (Flame),Willpower,Offence,Ignore fatigue when using Flame Weapons,V2 pg 68
+Flagellant,Dark Heresy,1,Willpower 30,Offence,Toughness,Take fatigue but gain a bonus to willpower tests, 2e EWi pg 58
+Frenzy,Dark Heresy,1,-,Strength,Offence,Enter psychotic rage to gain combat bonuses,
+Grenadier,Dark Heresy,1,BS 35,Ballistic Skill,Finesse,Reduce scatter by half BS bonus, 2e EWo pg 63
+Heroic Inspiration,Only War,1,"Fel 35, Command",Leadership,Social,Use Inspire Special Use of the Command Skill as a Half Action.,
+Hieghtened Senses,Only War,1,-,Perception,Fieldcraft,Gain +10 bonus to particular sense.,
+Hunter's Instincts,Trisdekan Primer,1,"Per 30, BS 30",Offence,Perception,Deal extra damage to uncovered enemies,V2 pg 70
+Hurler,Trisdekan Primer,1,Str 35,Strength,Fieldcraft,Throw weapons further,V2 pg 70
+Initiated Maintenance,Only War,1,Common Lore (Adeptus Mechanicus) +10,Ballistic Skill,Tech,Reduces Jams and Overheating,
+Iron Jaw,Dark Heresy,1,T 40,Toughness,Defence,Test Toughness to overcome Stunning,
+Jaded,Dark Heresy,1,WP 40,Willpower,Defence,Ignore mundane horrors,
+Keen Intuition,Dark Heresy,1,Int 35,Perception,Social,Can retry Awareness test once with –10 modifier,
+Lasgun Volley,Only War,1,"BS 30, Weapon Training (Las)",Ballistic Skill,General, +1 damage to all Las weapons,
+Leap Up,Dark Heresy,1,Ag 30,Agility,General,Stand as a Free Action.,
+Leaping Dodge,Dark Heresy,1,"Ag 35, Rank 2 in the Dodge skill",Agility,Defence,Avoid spray with dodge instead of Ag, 2e EWo pg 64
+Light Sleeper,Only War,1,Per 30,Perception,Fieldcraft,Count as awake even when sleeping.,
+Lightning Reflexes,Only War,1,-,Agility,Fieldcraft,Roll twice and take the highest for Initiative rolls.,
+Litany of Condemnation,Only War,1,"Willpower 40, Scholastic Lore (Imperial Creed) +10",Willpower,Social,Character may inspire others to resist Fear from Daemons and their ilk.,
+Little 'un,Only War,1,"Fellowship 30, Non-Ogryn",Fellowship,General,Character is easily liked and trusted by Ogryns.,
+Lockdown,Trisdekan Primer,1,"Per 30, BS 30",Ballistic Skill,Leadership,Make pinned targets easier to hit,V2 pg 72
+Lone Wolf,Trisdekan Primer,1,-,Fieldcraft,Offence,Gain bonuses when operating solo,V2 pg 72
+Modify Payload,Only War,1,Tech Use,Intelligence,Tech,"Increase Damage, Blast Quality, and Smoke Quality of explosives.",
+Mounted Warrior,Dark Heresy,1,"Rank 2 in any Operate skill or Rank 2 in Survival skill, BS 30 or WS 30",WS or BS,Offence,Reduce penalties for attacking when mounted, 2e EWi pg 59
+Nowhere to Hide,Dark Heresy,1,Per 30,Perception,Offence,Can add DoS from the attack to reduce armour value of cover,
+Orthoproxy,Only War,1,-,Willpower,Tech, +20 bonus to resist mind control or interrogation,
+Overlooked,Only War,1,"Per 35, Unremarkable",Perception,Defence,Enemies attack other characters first.,
+Peer,Dark Heresy,1,Fel 30,Fellowship,Social,Character has good reputation amongst chosen group,
+Polyglot,Only War,1,"Int 40, Fel 30",Intelligence,Social,Character has innate grasp of languages.,
+Pugilist,Only War,1,Str 30,Offence,Strength,Feint as a Free Action with Unarmed Standard Attack and Called Shot Actions.,
+Quick Draw,Dark Heresy,1,-,Agility,Finesse,Draw weapon as Free Action,
+Rabbit Punch,Only War,1,"Ag 35, WS 35",Agility,Finesse,Use AB for unarmed Damage,
+Radiant Presence,Only War,1,Fel 40,Fellowship,Leadership,Character has an inspiring aura.,
+Rapid Reload,Dark Heresy,1,-,Agility,Fieldcraft,Reduce reload time,
+Reaction Fire,Trisdekan Primer,1,"Ag 30, Per 30",Perception,Defence,Spend reaction to Overwatch,V2 pg 74
+Resistance,Dark Heresy,1,-,Toughness,Defence,Gain +10 bonus to particular resistance test,
+Skilled Rider,Dark Heresy,1,Rank 2 in any Operate skill,Agility,Fieldcraft,Gain bonuses for riding, 2e Ewo pg 64
+Sound Constitution,Blashemy,1,-,Toughness,General,Gain additional wounds equal to your Toughness bonus,Blasphemy pg 13
+Street Fighting,Only War,1,WS 30,Weapon Skill,Offence,Add half WS to Critical Damage.,
+Strength in the Creed,Only War,1,Ministorum Priest or 10+ Insanity Points,Willpower,Offence,Invoke the Imperial Creed for inspiration on an attack.,
+Swift Suture,Only War,1,Medicae,Finesse,Intelligence,End Blood Loss condition when performing First Aid.,
+Takedown,Dark Heresy,1,-,Weapon Skill,Offence,Make special attack to stun opponent,
+Technical Knock,Dark Heresy,1,Int 30,Intelligence,Tech,Un-jam gun as Half Action.,
+Total Recall,Only War,1,Int 30,Intelligence,Knowledge,Character can remember trivial facts and minor details.,
+Trench Dweller,Trisdekan Primer,1,-,Fieldcraft,Defence,Increase protection of prepared positions,V2 pg 77
+Trench Raider,Trisdekan Primer,1,Ag 35,Fieldcraft,Offence,Move freely in trenches,V2 pg 77
+Unremarkable,Only War,1,-,General,Social,Character is easily forgettable,
+Unusual Companion,Only War,1,Fel 30,General,Social,Gain a non-standard Comrade.,
+Urge the Penitent,Only War,1,"Command +10, Scholastic Lore (Imperial Creed)",Fellowship,Social,Benefit when re-rolling Tests with Fate Points.,
+Vigilant,Only War,1,Per 35,Offence,Perception,Use Perception instead of Agility for Overwatch.,
+Warp Sense,Dark Heresy,1,"Psy Rating, Psyniscience, Per 30",Perception,Psyker,Allows Psyniscience test as Free Action,
+Weapon Tech,Dark Heresy,1,"Tech Use +10, Int 40",Intelligence,Tech,Increase potency of advanced weaponry,
+Weapon Training,Dark Heresy,1,-,General,Finesse,Use Weapon Group without penalty,
+Wrestler,Only War,1,"S 30, Athletics",Strength,General,Use Athletics Skill instead of Strength Characteristic while Grappling.,
+Ambassador Impearialis,Dark Heresy,2,"Fellowship 35, Intelligence 35",Perception,Social,Reduce penalties from talking to nonimperial by 20 and gain a free reroll, 2e EWo pg 63
+Archivator,Dark Heresy,2,Int 40,Knowledge,Perception,reroll scholastic and forbidden lores with a -10 under the right conditions, 2e EWo pg 63
+Armour-monger,Dark Heresy,2,"Int 35, Tech-Use, Trade (Armourer)",Intelligence,Tech,Increase the efficacy of physical armour.,
+Arsonist,Trisdekan Primer,2,Weapon Training (Flame),Fieldcraft,Offence,Increase Flamer area denial strength,V2 pg 63
+Aspire to Vengeance,Only War,2,"WS 40, WP 40",Fellowship,Offence,Character gains powerful benefits to attacks upon the loss of an ally.,
+Battle Rage,Dark Heresy,2,Frenzy,Strength,Defence,Parry while frenzied.,
+Bayonet Expertise,Trisdekan Primer,2,"WS 40, Weapon Training (Low-Tech or Chain)",Weapon Skill,Fieldcraft,Fight effectively with bayonets,V2 pg 63
+Biggest Booms,Trisdekan Primer,2,Tech-Use,Fieldcraft,Tech,Spend Fate for Blast damage,V2 pg 63
+Bolt Weapon Expertise,"The Good, The Bad",2,"BS 40, Weapon Training (Bolt)",Ballistic Skill,Offence,All Bolt weapons gain Crippling (X) X being half BS bonus,
+Bulging Biceps,Dark Heresy,2,Str 45,Strength,Offence,Remove bracing requirement from Heavy weapons.,
+Bulwark of Faith,Dark Heresy,2,"Willpower 45, Iron Faith",Defence,Willpower,When you pass a fear test against a daemon they take damage, 2e EB pg 61
+Chain Weapon Expertise,Only War,2,"WS 40 , Weapon Training (Chain)",Weapon Skill,Offence,Add additional Damage die for Tearing with Chain weapons.,
+Cleanse and Purify,Only War,2,"WP 35, Weapon Training (Flame)",Offence,Willpower,Increase chance to ignite foes with Flame weapons.,
+Combat Master,Dark Heresy,2,WS 30,Weapon Skill,Defence,Opponents get no bonus for outnumbering the character,
+Constant Vigilance,Dark Heresy,2,"Int 35 or Per 35, Awareness +10",Perception,Defence,"Can use Per or Int instead of Ag for Initiative rolls, and rolls two dice (picking higher) for the result.",
+Contact Network,Dark Heresy,2,"Cover-Up, Int 35",Fellowship,Leadership,Use Fellowship instead of Influence for Requisition tests.,
+Cool Under Pressure,Trisdekan Primer,2,"Reaction Fire, Per 40",Perception,Willpower,Spend Fate for deadly Overwatch,V2 pg 65
+Coordinated Interrogation,Dark Heresy,2,"S 40 or WP 40, Clues from the Crowds",Intelligence,Social," +10 bonus to all Interrogate tests, additional +5 for others who also have Coordinated Interrogation.",
+Counter Attack,Dark Heresy,2,WS 40,Weapon Skill,Defence,May attack after a successful parry,
+Cover-up,Dark Heresy,2,Int 35,Intelligence,Knowledge,Can reduce Influence by 1 to gain 1d5 Subtlety.,
+Crack Shot,Only War,2,BS 50,Ballistic Skill,Finesse,Add +2 to ranged Crit Damage,
+Creative Killer,Only War,2,Street Fighting,Intelligence,Offence,Deal improved Damage with Improvised Weapons.,
+Crippling Strike,Only War,2,WS 50,Weapon Skill,Finesse,Add +2 to melee Crit Damage,
+Daemonhunter,Dark Heresy,2,"Forbidden Lore (Daemonology), Willpower 40",Offence,Willpower,Reroll awareness and Psyniscience against daemons and all attacks gain Proven (3) against daemons, 2e EB pg 61
+Daemonologist,Dark Heresy,2,"Psy rating 3, Willpower 45, Forbidden Lore (Daemonology)",Psyker,Willpower,When using powers against weapons gain a +10 to focus power tests, 2e EB pg 61
+Deflect Shot,Only War,2,Ag 50,Weapon Skill,Defence,Add WS Bonus to AP against Primitive ranged attacks.,
+Deny the Witch,Dark Heresy,2,WP 35,Willpower,Defence,Can use Willpower to Evade against psychic attacks.,
+Devestating Assault,Dark Heresy,2,WS 35,Weapon Skill,Offence,A successful All Out Attack grants a second attack,
+Double Tap,Dark Heresy,2,Two-Weapon Wielder,Finesse,Offence,Successful first attack grants bonus to second attack.,
+Executioner,Trisdekan Primer,2,Frenzy or Jaded,Offence,Strength,Do more damage to injured enemies,V2 pg 67
+Exotic Weapon Training,Dark Heresy,2,-,Intelligence,Finesse,Gain proficiency with one exotic weapon type,
+Face in a Crowd,Dark Heresy,2,"Fel 35, Clues from the Crowds",Fellowship,Social,Can use Fellowship instead of Agility when Shadowing,
+Field Vivesection,Dark Heresy,2,"Ballistic Skill or Weapon Skill 40, Forbidden Lore (Xenos–Any), Rank 2 in the Medicae skill",Ballistic Skill / Weapon Skill,Knowledge,When making a called shot against a xeno whose forbidden lore you have you may make a Medicae (BS or WS)., 2e EWo pg 63
+Flashfire,Trisdekan Primer,2,"Weapon Training (Flame), Ag 40",Offence,Agility,Spend Fate for free fire attacks,V2 pg 69
+Foresight,Only War,2,Int 30,Intelligence,Knowledge,Contemplate to gain +10 bonus to next Test,
+Formidable,Trisdekan Primer,2,"Iron Jaw, Sound Constitution",Toughness,Defence,Reduce explosion damage,V2 pg 69
+Grazing Fire,Trisdekan Primer,2,Precision Killer,Ballistic Skill,Finesse,Spend Fate to deal damage on misses,V2 pg 69
+Hard Target,Dark Heresy,2,Ag 40,Agility,Defence,–20 to hit character when he Charges or Runs,
+Hardened Soul,Dark Heresy,2,"Willpower 35, 10 Corruption points",Defence,Willpower,Reduce CP by half and take IP equal to the amount reduced, 2e EB pg 62
+Hardy,Dark Heresy,2,T 40,Toughness,Defence,Character always heals as if Lightly Damaged.,
+Hatred,Dark Heresy,2,-,Weapon Skill,Social,Gain +10 bonus to attack hated creatures,
+Hip Shooting,Dark Heresy,2,"BS 40, Ag 40",Ballistic Skill,Finesse,Characters may shoot when moving.,
+Hotshot Pilot,Dark Heresy,2,"Rank 2 in Survival or any Operate skill, Agility 35",Agility,Tech,You may gain fatigue for a bonus on Operate tests or to reduce the DoF, 2e EWo pg 63
+Independent Targeting,Dark Heresy,2,BS 40,Ballistic Skill,Finesse,Fire at multiple targets more than 10 metres apart.,
+Inescapable Attack,Dark Heresy,2,"BS 40 or WS 40, Per 35",Weapon Skill / Ballistic Skill,Finesse,Attacker imposes penalty on DoS from Evasion test equal to DoS his initial attack.,
+Inspire Wrath,Only War,2,Air of Authority,Fellowship,Leadership,Inspire crowd to hatred and anger,
+Inspiring Aura,Dark Heresy,2,Halo of Command/Air of Authority,Leadership,Willpower,Can affect any insubordinate with the Terrify special use of Command, 2e EB pg 62
+Iron Resolve,Dark Heresy,2,"Resistance (Fear), Jaded",Defence,Willpower,"After failing a Fear or Pinning test, the character can re-roll the test with a –10 modifier.", 2e EB pg 62
+Killing Strike,Dark Heresy,2,WS 50,Weapon Skill,Offence,Spend Fate point to make melee attacks unavoidable,
+Las Weapon Expertise,Only War,2,"BS 35, Lasgun Volley",Ballistic Skill,General,Impose a penalty on opponents attempting to Dodge attacks with Las weapons.,
+Launcher Weapon Expertise,Trisdekan Primer,2,"BS 40, Weapon Training (Launcher)",Ballistic Skill,Toughness,Avoid explosive Blast damage,V2 pg 71
+Low Profile,Trisdekan Primer,2,"Ag 30, T 30",Finesse,Defence,Improve protection of cover,V2 pg 72
+Luminen Shock,Dark Heresy,2,"Luminen Capacitors, Mechanicus Implants",Weapon Skill,Tech,Character can discharge energy in melee attack,
+Maglev Transcendence,Dark Heresy,2,"Maglev Coils, Mechanicus Implants",Intelligence,Tech,Character can hover for longer periods of time,
+Marksman,Dark Heresy,2,BS 35,Ballistic Skill,Finesse,No penalties for firing at long or extreme range,
+Mechadendrite Use,Dark Heresy,2,Mechanicus Implants,Intelligence,Tech,Gain ability to use certain Mechadendrites,
+Melta Weapon Expertise,Only War,2,"BS 40, Weapon Training (Melta)",Ballistic Skill,Offence,Increase the Range of Melta weapons by a number of metres equal to Ballistic Skill Bonus.,
+Methodical Care,Only War,2,"Int 40, Swift Suture",Intelligence,Knowledge,Reduces penalties from failed extended care tests,
+Munitorum Influence,Only War,2,-,Fellowship,Social,5 Bonus to Squad Logistics Rating.* Costs more than listed,
+One-on-One,Dark Heresy,2,WS 40,Finesse,Weapon Skill,Gain extra DoS when fighting a single combatant, 2e EB pg 62
+Paranoia,Only War,2,-,Perception,Fieldcraft,Character is always alert for danger.,
+Penitent Psyker,Dark Heresy,2,"Psy rating, Strong Minded, Willpower 40",Psyker,Defence,May suffer fatigue to give an ally a bonus to resisting psychic powers, 2e EWi pg 59
+Persuasive Charm,Only War,2,"Fel 35, Charm",Fellowship,Social,Use Charm Skill to gain a bonus to Logistics Tests,
+Plasma Weapon Expertise,Only War,2,"BS 40, Weapon Training (Plasma)",Ballistic Skill,Tech,Reduce the chance of the Overheats Quality triggering when wielding a Plasma weapon.,
+Precision Killer,Dark Heresy,2,BS 40 or WS 40,Ballistic Skill/ Weapon Skill,Finesse,No penalty to making Called Shot in either Ranged or Melee Combat.,
+Prosanguine,Dark Heresy,2,"Autosanguine Implants, Mechanicus Implants",Toughness,Tech,Test to heal 1d5 damage,
+Purity of Hatred,Dark Heresy,2,Hatred (Any),Offence,Willpower,Your weapons gain vengeful vs the targets of your hatred, 2e EWi pg 59
+Ranging Fire,Trisdekan Primer,2,BS 40,Ballistic Skill,Intelligence,Use Indirect fire to guide allies,V2 pg 74
+Ripper Charge,Only War,2,"S 45, Bulging Biceps",Ballistic Skill,Offence,Make Full-Auto attack with Charge Move,
+Rites of Banishment,Dark Heresy,2,Common Lore (Imperial Creed) +10 or Forbidden Lore (Daemonology),Offence,Willpower,Give daemons a -10 to WP tests until your next turn, 2e EB pg 62
+Shadowstep,Trisdekan Primer,2,Evasive,Agility,Defence,Character is harder to hit with Overwatch,V2 pg 75
+Shredder,Trisdekan Primer,2,BS 40,Ballistic Skill,Offence,Damage armour with ranged attacks,V2 pg 75
+Snap Shot,Trisdekan Primer,2,"Lightning Reflexes, Ag 40",Ballistic Skill,Agility,Make 2 single attacks a turn at penalty,V2 pg 75
+Solid Projectile Weapon Expertise,Only War,2,"BS 35, Weapon Training (Solid Projectile)",Ballistic Skill,Finesse,Reload as a Free Action after successfully clearing a Jammed Solid Projectile weapon.,
+Stealth Sniper,Only War,2,Stealth +10,Ballistic Skill,Fieldcraft,Chance to remain hidden after making a ranged attack,
+Storm of Iron,Only War,2,"BS 45, Weapon Training (any one ranged)",Ballistic Skill,Offence,Allocate extra full-auto and semi-auto hits to additional targets within five metres.,
+Strong Minded,Dark Heresy,2,"WP 30, Resistance (Psychic Powers)",Willpower,Defence,May reroll failed WP tests to resist psychic powers.,
+Sudden Strike,Trisdekan Primer,2,"WS 35, Quick Draw",Weapon Skill,Finesse,Deal more damage on first strike,V2 pg 76
+Surefoot Wayfinder,,2,Survival +10,Perception,Fieldcraft,Move through difficult terrain and gain bonuses to tracking,
+Swift Attack,Dark Heresy,2,WS 30,Weapon Skill,Finesse,May make multiple melee attacks,
+Tainted Psyker,Dark Heresy,2,"Psy rating, Rank 2 (Trained) in Psyniscience skill, 10 Corruption points",Knowledge,Psyker,May gain corruption for a bonus to focus power tests, 2e EWi pg 59
+Tank Hunter,Only War,2,BS 40,Ballistic Skill,Finesse,Add BS Bonus to weapon Penetration against vehicles.,
+The Bigger They Are,Only War,2,BS 40,Ballistic Skill,Finesse,Modify Hit Location on larger enemies.,
+Tireless,Only War,2,"T 40, WP 35",Toughness,Willpower,Ignore Fatigue penalty,
+Trench Veteran,Trisdekan Primer,2,Trench Dweller,Fieldcraft,Defence,Improve Morale in prepared positions,V2 pg 77
+Two-Weapon Wielder,Dark Heresy,2,-,Weapon Skill/ Ballistic Skill,Finesse,May fight with two weapons.,
+Unarmed Specialist,Dark Heresy,2,"Ambidextrous, Ag 35, WS 35",Strength,Offence,"When fighting unarmed, attacks hit as Deadly Natural Weapons and user can re-roll damage.",
+Unarmed Style,Trisdekan Primer,2,"Str 40 or Ag 40, Unarmed Specialist",Strength,Finesse,Apply special effects to unarmed attacks,V2 pg 78
+Unshakeable Faith,Only War,2,WP 35,Willpower,Defence,May reroll failed Fear Tests,
+Unstoppable Charge,Only War,2,"WP 40, Survival +10",Fieldcraft,Weapon Skill,Improve Charge Action and Crushing Charge Mounted Special Action.,
+Vengeful Protector,Only War,2,"WS 45, S 45",Strength,Offence,Deal increased Damage to enemies that have harmed squad mates.,
+Warp Conduit,Dark Heresy,2,"Psy Rating, Strong Minded, WP 50",Willpower,Psyker,Spend Fate point to add 1d5 to psy rating.,
+Whirlwind of Death,Dark Heresy,2,WS 40,Weapon Skill,Finesse,Make one attack for each melee opponent.,
+Wild Charge,Only War,2,"S 45, Berserk Charge",Strength,Offence,"Charge attacks are more difficult to evade, but gain a smaller bonus to hit.",
+Witch Finder,Dark Heresy,2,"Rank 2 (Trained) in the Forbidden Lore (Psykers) skill, Willpower 45",Knowledge,Perception,Gain Psyniscience at rank 1 but may not buy further ranks, 2e EWi pg 59
+Xenosavant,Dark Heresy,2,Rank 3 in Forbidden Lore (Xenos–Any),Intelligence,Knowledge,The character can attempt any Forbidden Lore (Xenos) test in which he is not trained as an untrained skill test, 2e EWo pg 64
+Abiding Resilience,Only War,3,T 40,Toughess,Defence,Regain additional Wounds and Fatigue when spending a Fate Point.,
+Adamantium Faith,Dark Heresy,3,"Jaded, Resistance (Fear), WP 45",Willpower,Defence,Reduces DoF from failed Pinning and Fear tests.,
+Aegis of Contempt,Dark Heresy,3,"Shared Destiny, Shield of Contempt, Hatred (any)",Defence,Leadership,An ally within range may reduce CP by 1 or spend a fate point to gain 0 CP,2e EWi pg 58
+Assassin Strike,Dark Heresy,3,"Ag 40, Acrobatics",Weapon Skill,Fieldcraft,"After melee attack, test Acrobatics to move",
+Bastion of Iron Will,Dark Heresy,3,"Psy Rating, Strong Minded, WP 40",Willpower,Psyker,Gain bonus for Opposed tests against psychic powers.,
+Blademaster,Dark Heresy,3,"WS 30, Weapon Training (any Melee)",Weapon Skill,Finesse,"Reroll missed attack, once per round.",
+Blessing of Flame,Only War,3,"WP 45, Scholastic Lore (Imperial Creed) +20",Ballistic Skill,Knowledge,Bless Flame weapons for use against Daemons.,
+Bolt Weapon Mastery,"The Good, The Bad",3,"Ballistic Skill 50, Bolt Weapon Expertise",Ballistic Skill,Offence,Add additional Damage die for Tearing with Bolt weapons.,
+Bombadier,Only War,3,"BS 40, Weapon Training (Launcher), Tech-Use",Offence,Tech,"Bonus to attack with launchers and explosives, improved scatter",
+Close and Personal,Trisdekan Primer,3,Hip Shooting or Strom of Iron,Ballistic Skill,,Spend Fate and gain Vengeful (9) when in shooting in Point Blank,V2 pg 65
+Crushing Blow,Dark Heresy,3,WS 40,Weapon Skill,Offence,Add half WS bonus to damage inflicted in melee,
+Daemonic Disruption,Dark Heresy,3,"Bane of the Daemon, Willpower 50, Untouchable elite advance",Willpower,,Daemons have to roll for warp instability after attacking the character,2e EB pg 61
+Dark Soul,Dark Heresy,3,"Hardened Soul, 20 CP",Toughess,Willpower,Take a malignancy instead of a mutation,2e EB pg 61
+Death Serves the Righteous,Only War,3,"BS 50, Precision Killer",Ballistic Skill,Offence,Spend Fate Point to change Damage die result of 1 to 10 once per combat,
+Deathdealer,Dark Heresy,3,BS 45 or WS 45,Perception,Finesse,Add Per bonus to damage inflicted in combat,
+Delicate Interrogation,Dark Heresy,3,"Fel 50, Coordinated Interrogation",Intelligence,Finesse,Reduce Subtlety loss by 1d5 when conducting an investigation.,
+Desperate Strength,Only War,3,"Toughness 50, Frenzy",Toughess,Defence,Gain greater Unnatural Strength and Toughness when badly hurt,
+Divine Protection,Dark Heresy,3,"BS 45, WP 35",Finesse,,"Attacks using a weapon with the Spray quality, it only strikes enemies within the area of efect; the attack does not harm allies.",2e EWi pg 58
+Don't you die on me!,Only War,3,"Master Chiurgeon, Methodical Care",Intelligence,Knowledge,Resuscitate allies who have recently died from Blood Loss or failed Toughness Tests.,
+Ever Vigilant,Trisdekan Primer,3,"Cool Under Pressure, Per 50",Perception,,Enter Overwatch as a free action,V2 pg 67
+Explosive Righteousness,Trisdekan Primer,3,-,Offence,,,V2 pg 67
+Eye of Vegeance,Dark Heresy,3,BS 50,Ballistic Skill,Offence,Spend 1 Fate point to increase damage and penetration.,
+Favoured by the Warp,Dark Heresy,3,WP 35,Willpower,Psyker,Roll twice for Psychic Phenomena and choose result.,
+Fearless,Only War,3,Nerves of Steel,Willpower,Defence,Immune to Fear and Pinning. *Talk to GM,
+Feat of Strength,Only War,3,"S 45, Bulging Biceps",Offence,Strength,Temporarily gain or increase Unnatural Strength Trait.,
+Final Judgement,Only War,3,"Fel 45, Air of Authority, Precision Killer",Ballistic Skill,Leadership,Motivate allies with Command Skill after messily executing an enemy.,
+Fire Bomber,Trisdekan Primer,3,"Weapon Training (Flame), Tank Hunter",Finesse,Offence,Cripple vehicles with fire,V2 pg 68
+Flash of Insight,Dark Heresy,3,"Int 40, Contact Network, Coordinated Interrogation",Perception,Knowledge,Spend 1 Fate point to reveal a clue,
+Giant Killer,Only War,3,"BS 50, The Bigger They Are",Ballistic Skill,Finesse,Deal increased Damage to larger enemies,
+Halo of Command,Unknown,3,"Fel 40, WP 40",Fellowship,Leadership,Affect NPCs within 100xFelB metres with Social skills.,
+Hammer Blow,Dark Heresy,3,Crushing Blow,Strength,Offence,Make a thunderous strike with a melee weapon,
+Haploptic Focus,Trisdekan Primer,3,"WP 50, Strong Minded",Psyker,Knowledge,Specialize in a single psychic discipline to the exclusion of all others,V2 pg 69
+Hoist the Colors,Trisdekan Primer,3,Command,Leadership,Strength,Rally allies around a planted standard,V2 pg 70
+Hull Down,Dark Heresy,3,Rank 2 in Survival or any Operate skill,Agility,Fieldcraft,Counts vehicles as one size less for being attacked,2e EWo pg 63
+Imperial Commander,Only War,3,"Fel 45, WP 40",Fellowship,Leadership,Command mixed units of troops with greater efficiency.,
+Indomitable Conviction,Dark Heresy,3,"Shared Destiny, Strength through Conviction, Resistance (Fear), Jaded",Leadership,Willpower,An ally within range may reduce IP by 1 or spend a fate point to gain 0 IP,2e EWi pg 58
+Infused Knowledge,Dark Heresy,3,"Int 40, Lore (any one)",Intelligence,Knowledge,Know a little bit about everything.,
+Instrument of His Will,Dark Heresy,3,WP 50,Offence,Willpower,May spend fate to deal 2xWP extra bonus damage to daemons,2e EB pg 62
+Into the Jaws of Hell,Dark Heresy,3,"Adamantium Faith, Halo of Command, Will of the Inquisitor",Leadership,Willpower,May reduce Fellowship bonus from DoF,2e EWi pg 58
+Iron Faith,Dark Heresy,3,Iron Resolve,Defence,Willpower,The character is immune to the effects of the Baneful Presence trait.,2e EB pg 62
+Killer Instinct,Trisdekan Primer,3,"Hip Shooting, BS 45, Ag 45",Offence,Agility,When hip shooting all attacks gain Vengeful (9),V2 pg 71
+Las Weapon Mastery,Only War,3,"BS 45, Las Weapon Expertise",Ballistic Skill,General,Deal increased Damage with Las weapons based on Degrees of Success.,
+Lasgun Barrage,Only War,3,"Weapon Training (Las), BS 40",Ballistic Skill,Offence,Additional DoS when firing Las weapons,
+Launcher Weapon Mastery,Trisdekan Primer,3,"BS 50, Weapon Training (Launcher)",Ballistic Skill,Toughness,Once per combat load a Launcher weapon as a free action,V2 pg 72
+Lightning Attack,Dark Heresy,3,Swift Attack,Weapon Skill,Finesse,Character may make many melee attacks with single roll.,
+Lock On,Only War,3,"Per 40, Vigilant",Offence,Perception,Dodge while maintaining an Aim or Overwatch Action.,
+Luminen Blast,,3,"Luminen Shock, Luminen Capacitors, Mechanicus Implants",Ballistic Skill,Tech,May discharge stored energy as a ranged attack.,
+Master Orator,Only War,3,Inspire Wrath,Fellowship,Leadership,Affect larger groups with Charm and Intimidate,
+Mastery,Dark Heresy,3,Rank 4 in selected skill,Intelligence,Knowledge,May spend Fate point to succeed on test,
+Melta Weapon Mastery,Only War,3,"BS 50, Melta Weapon Expertise",Ballistic Skill,Offence,Increase Penetration of Melta Weapons based on Degrees of Success,
+Mental Maze,Only War,3,"Int 35, Strong Minded",Defence,Intelligence,Spend a Fate Point to add Intelligence Bonus to Degrees of Success on Opposed Willpower Tests,
+Mighty Shot,Dark Heresy,3,BS 40,Ballistic Skill,Offence,Add half BS bonus to ranged damage rolls,
+Never Die,Dark Heresy,3,"WP 50, T 50",Toughess,Defence,Ignore penalties from Critical damage by spending Fate point.,
+Overkill,Only War,3,"Per 40, Bulging Biceps",Perception,Offence,"Once per combat encounter, Aim as a Free Action with a chosen ranged weapon type.",
+Plasma Weapon Mastery,Only War,3,"BS 50, Plasma Weapon Expertise",Ballistic Skill,Tech,Increase Damage and Penetration when firing Plasma weapons on Maximal setting,
+Plunging Fire,Trisdekan Primer,3,"Int 40, BS 40",Intelligence,Perception,Frighten enemies with long-range fire,V2 pg 73
+Precision Shot,Trisdekan Primer,3,Precision Killer,Ballistic Skill,Perception,Spend Fate to gain Vengeful (6) for 1 shot that can not be rerolled if it misses,V2 pg 73
+Preternatural Speed,Dark Heresy,3,"WS 40, Ag 50",Agility,Offence,Double speed when charging,
+Push the Limit,Dark Heresy,3,"Rank 2 in Survival or any Operate skill, Tech-Use",Perception,Tech,"Once per round, the character may add +20 to an Operate test if it fails bad things happen",2e EWo pg 64
+Ranged Weapon Expert,Only War,3,"BS 50, Weapon Training (Chosen Group)",Ballistic Skill,Finesse,"Once per combat, Aim as a Free Action and roll twice for Damage with a chosen ranged weapon type.",
+Rapid Toss,Trisdekan Primer,3,Biggest Booms,Agility,,Spend Fate to throw a Thrown weapon as a free action,V2 pg 73
+Relic Bearer,Only War,3,"Logistics Rating 40+, Scholastic Lore (Imperial Creed) +20",Fellowship,Social,Character is entrusted with a sacred relic.,
+Righteous Blow,Only War,3,BS 45 or WS 45 or WP 45,Offence,Willpower,Roll twice for Righteous Fury and choose result,
+Sacred Flame,Only War,3,"WP 40, Cleanse and Purify",Offence,Willpower,Inflict Righteous Fury on a 9 or 10 with Flame Weapons.,
+Sanctic Purity,Dark Heresy,3,"Daemonologist, Favoured by the Warp, Willpower 50",Psyker,Willpower,Spend a fate to negate psychic phenomena when using Sanctic Daemonology,2e EB pg 62
+Sentinel,Trisdekan Primer,3,"Cool Under Pressure, BS 40",Defence,Finesse,Gain extra Overwatch hits,V2 pg 74
+Shield Wall,Dark Heresy,3,"Ambidextrous, Weapon Skill 40",Defence,Weapon Skill,When using a shield reroll 1 parry per turn,2e EB pg 62
+Solid Projectile Weapon Mastery,Only War,3,"BS 45, Solid Projectile Weapon Expertise",Ballistic Skill,Finesse,Solid Projectile Weapons gain Proven (X) Quality equal to half of Ballistic Skill Bonus.,
+Sprint,Dark Heresy,3,-,Agility,Fieldcraft,Move more quickly in combat,
+Step Aside,Dark Heresy,3,"Agility 40, Dodge or Parry",Agility,Defence,Can make additional Dodge or Parry attempt.,
+Stirring Rhetoric,Only War,3,"Fel 45, Heroic Inspiration",Fellowship,Social,"Once per session, spend a Fate Point to improve the Inspire Special Use of the Command Skill.",
+Suffer not the Work of Heretics,Only War,3,"Hatred (any one), Ministorum Priest or 20+ Insanity Points",Willpower,Offence,Gain benefits to Penetration against targets of your Hatred.,SoH pg 108
+Superior Chirurgeon,Dark Heresy,3,Rank 2 in Medicae skill,Intelligence,Fieldcraft,"Gain +20 to Medicae tests, bonuses to first aid tests.",
+Target Selection,Dark Heresy,3,BS 50,Ballistic Skill,Finesse,May shoot into melee without penalty,
+The Flesh is Weak,Only War,3,"Two or more Cybernetics, Tech-Use +10",Tech,Toughness,Gain Machine Trait equal to half the number of Cybernetic implants,
+Thunder Charge,Dark Heresy,3,S 50,Strength,Offence,Break enemies with armoured charge.,
+Thunderous Castigation,Only War,3,"Command +20, Scholastic Lore (Imperial Creed) +20",Fellowship,Leadership,Strike fear into enemies with fiery rhetoric.,SoH pg 109
+Trademark Item,Only War,3,"Fel 40, Command +10",Fellowship,Social,Item grants bonus to Interaction Tests and allows extra Sweeping Order.,
+Trench Defender,Trisdekan Primer,3,"Trench Dweller, Trench Veteran",Fieldcraft,Defence,Improve accuracy and slow enemies in prepared positions,V2 pg 76
+True Grit,Dark Heresy,3,T 40,Toughess,Defence,Reduce Critical damage taken.,
+Two-Weapon Master,Dark Heresy,3,"Ag 45, Ambidextrous, BS 40 or WS 40, Two-Weapon Wielder (Melee, Ranged)",Finesse,Offence,No penalties when fighting with two singlehanded weapons.,
+Unconventional Leadership,Trisdekan Primer,3,"Air of Authority, Str 50 or WP 50 or Int 50",Leadership,General,Command using alternative characteristics,V2 pg 68
+Underfoot Assault,Only War,3,"Ag 40, WS 40",Weapon Skill,Finesse,Gain benefits in melee against larger foes,
+Versatile Shooter,Only War,3,"Precision Killer, Target Selection",Ballistic Skill,Finesse,"Gain the full benefit of the Accurate Quality on Pistol, Heavy, and Vehicle Weapons.",
+Veteran Comrade,Only War,3,Character Speciality with at least one Comrade,General,Leadership,One Comrade grants extra bonuses and can participate in Veteran Orders.,
+Warp Lock,Dark Heresy,3,"Psy Rating, Strong Minded, WP 50",Willpower,Psyker,Ignore Psychic Phenomenon once per session.,
+Weapon Intuition,Dark Heresy,3,Exotic Weapon Training (Any),Intelligence,Finesse,The character reduces the penalty for using a weapon without the proper training by 10.,2e EWo pg 64

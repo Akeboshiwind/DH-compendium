@@ -1,0 +1,187 @@
+Name,Source,Type,Class,Range,RoF,Damage,Pen,Clip,Rld,Qualities,Wt,Rarity,Book and Page#
+Angelus Bolt Carbine,Dark Heresy,Bolt,Basic,100m,S/-/-,2d10X,5,3,3 Full,"Tearing, Accurate",11,Very Rare,1e TIH pg 121
+Bolt Pistol,Only War,Bolt,Pistol,30m,S/2/-,1d10+5X,4,8,Full,Tearing,3.5,Very Rare,Core pg 174
+Bolter,Only War,Bolt,Basic,100m,S/3/-,1d10+5X,4,24,Full,Tearing,7,Very Rare,Core pg 174
+Ceres Bolt Carbine,Rogue Trader,Bolt,Basic,90m,S/2/-,1d10+5X,4,12,2 Full,"Reliable, Tearing",5,Very Rare,HA pg 50
+Ceres Bolt Pistol,Rogue Trader,Bolt,Pistol,30m,S/2/-,1d10+5X,4,8,Full,Tearing,3.5,Rare,Core pg 118
+Condemnor (Bolt),Rogue Trader,Bolt,Basic,90m,S/2/4,1d10+5X,4,24,2 Full,"Sanctified, Tearing",7.5,Extremely Rare,FaC pg 82
+Condemnor (Crossbow),Rogue Trader,Bolt,Basic,45m,S/-/-,1d10+3R,2,1,2 Full,"Accurate, Sanctified",,,
+Footfall Bolt Pistol,Rogue Trader,Bolt,Pistol,25m,S/2/-,1d10+4X,2,6,Full,"Tearing, Unreliable",4.5,Scarce,HA pg 50
+Footfall Boltgun,Rogue Trader,Bolt,Basic,80m,S/3/-,1d10+4X,2,18,Full,"Tearing, Unreliable",8,Rare,HA pg 50
+Godwyn-De'Az Bolt Pistol,Dark Heresy,Bolt,Pistol,40m,S/2/-,1d10+5X,4,10,Full,"Reliable, Tearing",3,Extremely Rare,EB pg 44
+Godwyn-De'Az Bolter,Dark Heresy,Bolt,Basic,90m,S/2/-,1d10+5X,4,30,Full,"Reliable, Tearing",6,Very Rare,EB pg 44
+Godwyn-De'Az Heavy Bolter,Dark Heresy,Bolt,Heavy,140m,-/-/6,1d10+8X,5,80,Full,"Reliable, Tearing",35,Extremely Rare,EB pg 44
+Godwyn-De'Az Storm Bolter,Dark Heresy,Bolt,Basic,80m,S/2/4,1d10+5X,4,60,Full,"Reliable, Storm, Tearing",8,Near Unique,EB pg 44
+Heavy Bolt Pistol,OWEA,Bolt,Pistol,40m,S/-/-,1d10+8X,5,3,1.5 Full,Tearing,5,Extremely Rare,OWEA pg 3
+Heavy Bolter,Only War,Bolt,Heavy,150m,-/-/6,1d10+8X,5,60,Full,Tearing,40,Very Rare,Core pg 174
+Hesh Pattern M38 MkII Bolt Pistol,Only War,Bolt,Pistol,25m,S/3/-,1d10+5X,4,12,2 Full,Tearing,4,Very Rare,
+Locke Bolter,Rogue Trader,Bolt,Basic,90m,S/2/4,1d10+5X,4,24,Full,Tearing,7,Very Rare,Core pg 118
+Mauler Bolt Cannon,Mars needs women,Bolt,Heavy,90m,-/-/6,2d10+8X,8,60,Full,Tearing,30,Extremely Rare,pg 41
+Mauler Bolt Pistol,Dark Heresy,Bolt,Pistol,30m,S/3/-,1d10+5X,4,6,Full,"Reliable, Tearing",3,Very Rare,1e TIH pg 121
+Maxim Bolter,Mars needs women,Bolt,Basic,30m,-/-/5,1d10+5X,4,25,2 Full,Tearing,7,Extremely Rare,pg 41
+Perinetus-Pattern “Solo” MarkII Boltgun,Rogue Trader,Bolt,Basic,100m,S/-/-,1d10+5X,4,8,Full,"Accurate, Tearing, Reliable",7,Very Rare,ItS:TEH pg 114
+Psycannon,Dark Heresy,Bolt,Heavy,120m,-/2/5,2d10+5X,5,40,3 Full,"Daemonbane, Reliable, Tearing",20,Near Unique,EB pg 42
+Relic Boltgun,Rogue Trader,Bolt,Basic,120m,S/3/-,1d10+9X,4,30,Full,"Reliable, Sanctified, Tearing",10,Near Unique,HA pg 50
+Sacristan Bolt Pistol,Rogue Trader,Bolt,Pistol,30m,S/2/-,1d10+6X,4,6,Full,Tearing,3.5,Very Rare,FaC pg 82
+Scourge Pattern Bolter,Rogue Trader,Bolt,Basic,90m,S/2/4,1d10+5X,4,24,Full,"Reliable, Tearing",9,Scarce,FaC pg 82
+Solar Heavy Bolter,Rogue Trader,Bolt,Heavy,120m,-/-/10,1d10+7X,5,60,Full,Tearing,40,Very Rare,Core pg 118
+Stalker Bolter,Pure Homebrew,Bolt,Basic,200m,S/-/-,1d10+5X,4,24,Full,"Accurate, Tearing",7,Extremely Rare,
+Storm Bolter,Only War,Bolt,Basic,90m,S/2/4,1d10+5X,4,60,Full,"Storm, Tearing",9,Extremely Rare,Core pg 174
+Condemnor,Dark Heresy,Exotic,Basic,100m,S/-/-,1d10+4R,2,1,2 Full,"Accurate, Reliable",8,Rare,EWi pg 44
+Grav Pistol,Dark Heresy,Exotic,Pistol,15m,S/-/-,1d10+3I,6,6,Full,"Concussive (1), Graviton",3,Near Unique,Core pg 154
+Graviton Gun,Dark Heresy,Exotic,Basic,30m,S/3/-,1d10+6I,8,9,2 Full,"Concussive (2), Graviton",6,Extremely Rare,Core pg 154
+Heavy Webber,Rogue Trader,Exotic,Heavy,70m,S/-/-,-,0,3,Full,"Blast (9), Snare (3)",14,Rare,ItS:TEH pg 121
+Hellrifle,Dark Heresy,Exotic,Basic,300m,S/-/-,1d10+4R,4,-,-,Felling (2),10,Very Rare,EB pg 42
+Meritech Cannon,Rogue Trader,Exotic,Pistol,15m,S/-/-,2d10+4X,4,6,3 Full,Blast (1),0.5,Unique,ItS:TEH pg 121
+Mole Mortar,Only War,Exotic,Heavy,50-200m,S/-/-,2d10+2X,2,1,Full,"Blast (4), Inaccurate, Indirect (2), Shocking",50,Extremely Rare,Core pg 184
+Needle Pistol,Only War,Exotic,Pistol,30m,S/-/-,1d10R,0,6,Full,"Accurate, Felling (1), Toxic (5)",1.5,Very Rare,Core pg 184
+Needle Rifle,Only War,Exotic,Basic,180m,S/-/-,1d10R,0,6,2 Full,"Accurate, Felling (1), Toxic (5)",2,Very Rare,Core pg 184
+Purgatus Crossbow,Dark Heresy,Exotic,Basic,50m,S/-/-,1d10+5I,0,5,2 Full,Reliable,16,Rare,EWi pg 44
+Razorweb Launcher,Rogue Trader,Exotic,Heavy,10m,S/-/-,2d10+4R,5,1,Full,"Blast (1), Tearing",3,Extremely Rare,ItS:TEH pg 121
+Rocketfire Gun,Rogue Trader,Exotic,Basic,80m,S/-/-,1d10+5I,4,6,Full,Tearing,4,Very Rare,ItS:TEH pg 121
+Silversine Launcher,Dark Heresy,Exotic,Heavy,60m,S/-/-,1d10I,0,1,2 Full,"Blast (4), Reliable, Sanctified, Snare (2)",25,Very Rare,EB pg 42
+Sonic Rifle,Rogue Trader,Exotic,Basic,30m,S/2/-,1d10+3X,2,8,Full,"Tearing, Shocking",3.5,Rare,ItS:TEH pg 121
+Web Pistol,Dark Heresy,Exotic,Pistol,30m,S/-/-,-,0,1,Full,Snare (0),3.5,Very Rare,Core pg 154
+Webber,Dark Heresy,Exotic,Basic,50m,S/-/-,-,0,1,Full,"Blast (5), Snare (1)",8,Rare,Core pg 154
+Cerberus Heavy Flamer,Dark Heresy,Flame,Heavy,30m,S/2/-,1d10+5E,3,8,2 Full,"Flame, Reliable, Spray",40,Very Rare,EWi pg 44
+Flamer,Only War,Flame,Basic,20m,S/-/-,1d10+4E,2,6,2 Full,"Flame, Spray",6,Scarce,Core pg 175
+Gorgon Chemical Flamer,Dark Heresy,Flame,Basic,20m,S/-/-,1d10+4E,2,6,2 Full,"Corrosive, Felling (1), Flame, Spray, Toxic (2)",8,Very Rare,EWi pg 44
+Gul-Model Hand Projector,Trisdekan Primer,Flame,Pistol,15m,S/-/-,1d10+4E,2,2,2 Full,"Flame, Thrust Jet",4,Scarce,Vol 3 pg 19
+Hades Assault Flamer,Only War,Flame,Basic,20m,S/-/-,1d10+4E,2,10,2 Full,"Flame, Reliable, Spray",12,Scarce,
+Hand Flamer,Only War,Flame,Pistol,10m,S/-/-,1d10+4E,2,2,2 Full,"Flame, Spray",3.5,Rare,Core pg 175
+Heavy Flamer,Only War,Flame,Heavy,30m,S/-/-,1d10+5E,4,10,2 Full,"Flame, Spray",45,Rare,Core pg 175
+Hydra Flamer Array,Dark Heresy,Flame,Basic,8m,S/-/-,1d10+4E,2,10,2 Full,"Flame, Proven (3), Spray",10,Very Rare,EWi pg 44
+Incinerator,Dark Heresy,Flame,Basic,30m,S/-/-,1d10+6E,6,10,2 Full,"Daemonbane, Flame, Spray",3,Extremely Rare,EB pg 42
+Pyrophoric Vambrace,Only War,Flame,Pistol,15m,S/-/-,2d10+2E,4,10,2 Full,"Corrosive, Flame, Spray",4,Very Rare,SoH pg 127
+Rev-Model Ram Projector,Trisdekan Primer,Flame,Heavy,35m,S/-/-,1d10+5E,4,8,2 Full,"Flame, Thrust Jet",50,Rare,Vol 3 pg 19
+Thermovortex,Trisdekan Primer,Flame,Basic,15m,S/-/-,1d10+3E,4,6,3 Full,"Blast (3), Concussive (0), Inaccurate, Flame",6.5,Very Rare,Vol 3 pg 19
+Zhuzh-Model Boost Projector,Trisdekan Primer,Flame,Basic,25m,S/-/-,1d10+5E,2,4,2 Full,"Flame, Thrust Jet",7,Scarce,Vol 3 pg 19
+Krug Pistol,Trisdekan Primer,Gyrojet,Pistol,60m,S/-/-,1d10+4I,3,1,Half,"Gyrojet, Reliable",1,Common,Vol 3 pg 17
+Strela,Trisdekan Primer,Gyrojet,Basic,120m,S/-/-,1d10+5I,3,5,2 Full,"Gyrojet, Reliable",7,Average,Vol 3 pg 17
+Krug M37 Carbine,Trisdekan Primer,Gyrojet,Basic,100m,S/2/-,1d10+4I,3,2,Full,"Gyrojet, Reliable",3,Average,Vol 3 pg 17
+"M40 ""Reyder""",Trisdekan Primer,Gyrojet,Basic,100m,S/3/-,1d10+4I,4,30,Full,"Gyrojet, Proven (3), Twin-Stage",5,Rare,Vol 3 pg 17
+Autostrela,Trisdekan Primer,Gyrojet,Heavy,120m,S/3/5,1d10+5I,6,15,Full,Gyrojet,9,Average,Vol 3 pg 17
+Drotik,Trisdekan Primer,Gyrojet,Heavy,150m,S/-/-,1d10+8I,8,3,2 Full,"Accurate, Gyrojet",12,Rare,Vol 3 pg 17
+"""Emperor's Will"" Laspistol",Only War,Las,Pistol,60m,S/2/-,1d10+5E,2,5,Half,"Accurate, Reliable",3,Very Rare,SoH pg 126
+Accatran Pattern MkII Heavy Laspistol,Only War,Las,Pistol,40m,S/2/-,1d10+3E,0,60,Full,Reliable,2,Average,
+Accatran Pattern MkIV Lasgun,Only War,Las,Basic,80m,S/3/-,1d10+3E,0,60,Full,Reliable,4,Average,
+Apashe,Trisdekan Primer,Las,Pistol,10m,S/-/-,1d10+4E,0,5,Full,-,0.5,Scarce,Vol 3 pg 19
+Belasco Dueling Pistol,Rogue Trader,Las,Pistol,45m,S/-/-,1d10+5E,4,1,Full,Accurate,1.5,Very Rare,Core pg 119
+Bullpup Lasgun,Only War,Las,Basic,90m,S/2/-,1d10+3E,0,60,Full,Reliable,3.5,Average,
+Clovis Twist Pistol,Rogue Trader,Las,Pistol,20m,S/-/-,1d10+4E,0,1,Full,Unreliable,0.5,Average,FaC pg 81
+D'Laku Hellgun,Dark Heresy,Las,Basic,100m,S/3/5,1d10+3E,4,40,2 Full,Felling (2),10,Very Rare,1e TIH pg 134
+Faucon,Trisdekan Primer,Las,Basic,80m,S/2/3,1d10+4E,2,20,2 Full,Reliable,7,Rare,Vol 3 pg 19
+Gambler Lasgun,Trisdekan Primer,Las,Basic,100m,S/3/-,1d10+1d5E,1d5,50,Full,Unreliable,4,Common,Vol 3 pg 19
+Hot-shot Lasgun,Only War,Las,Basic,60m,S/3/-,1d10+4E,7,30,2 Full,Felling (2),6,Rare,Core pg 174
+Hot-shot Laspistol,Only War,Las,Pistol,20m,S/2/-,1d10+4E,7,40,2 Full,Felling (2),4,Rare,Core pg 174
+Hotshot Carbine,Pure Homebrew,Las,Basic,30m,S/2/-,1d10+4E,7,40,2 Full,Felling (2),4,Rare,
+Hotshot Long-las,OWEA,Las,Basic,100m,S/2/-,1d10+4E,9,20,3 Full,"Accurate, Felling (4)",8,Extremely Rare,OWEA pg 2
+Hotshot Rifle,Pure Homebrew,Las,Basic,120m,S/-/-,1d10+4E,7,10,2 Full,"Accurate, Felling (2)",6,Very Rare,
+Hotshot SMG,Pure Homebrew,Las,Basic,30m,S/-/5,1d10+4E,7,30,1.5 Full,Felling (2),5,Very Rare,
+Hotshot Volley Gun,OWEA,Las,Basic,80m,S/2/3,1d10+6E,7,20,2 Full,"Felling (2), Special",18,Extremely Rare,OWEA pg 2
+Khayer-Addin Duelling Las,Dark Heresy,Las,Pistol,30m,S/-/-,1d10+4E,4,1,Full,"Accurate, Tearing",2,Very Rare,1e TIH pg 121
+Las Carbine,Only War,Las,Basic,75m,S/2/-,1d10+3E,0,60,Half,Reliable,2.5,Common,Core pg 174
+Las Gauntlets,Rogue Trader,Las,Pistol,50m,S/4/-,1d10+4E,1,20,Full,Reliable,3,Very Rare,Core pg 119
+Lasarque,Trisdekan Primer,Las,Basic,50m,S/2/-,1d10+5E,2,15,Full,Inaccurate,2.5,Common,Vol 3 pg 19
+Lasbarde,Trisdekan Primer,Las,Heavy,100m,S/-/-,3d10+10E,10,3,2 Full,"Proven (3), Inaccurate",25,Very Rare,Vol 3 pg 19
+Lasburst Twin Lasgun,Dark Heresy,Las,Basic,100m,S/2/-,1d10+4E,0,18,Full,"Tearing, Unreliable",7,Rare,1e TIH pg 178
+Lasgun,Only War,Las,Basic,100m,S/3/-,1d10+3E,0,60,Full,Reliable,4,Common,Core pg 174
+Laslock,Only War,Las,Basic,70m,S/-/-,1d10+4E,0,1,Half,Unreliable,4,Plentiful,Core pg 174
+Laspistol,Only War,Las,Pistol,30m,S/2/-,1d10+2E,0,30,Half,Reliable,1.5,Common,Core pg 174
+Locke Lascarbine,Rogue Trader,Las,Basic,60m,S/2/-,1d10+3E,0,40,2 Full,Reliable,2.5,Scarce,Core pg 119
+Long-las,Only War,Las,Basic,150m,S/-/-,1d10+3E,1,40,Full,"Accurate, Felling (4), Reliable",4.5,Scarce,Core pg 174
+Lucius Hellgun,Rogue Trader,Las,Basic,110m,S/3/-,1d10+4E,7,40,2 Full,Felling (2),4,Rare,Core pg 119
+Lucius Hellpistol,Rogue Trader,Las,Pistol,35m,S/2/-,1d10+4E,7,30,2 Full,Felling (2),6,Rare,Core pg 119
+Lucius Pattern Lasgun,Only War,Las,Basic,100m,S/-/-,1d10+5E,0,35,Full,-,5,Average,
+M41 Multi-laser,Only War,Las,Heavy,150m,-/-/5,2d10+10E,2,100,2 Full,Reliable,35,Very Rare,Core pg 174
+Man Portable Lascannon,Only War,Las,Heavy,300m,S/-/-,5d10+10E,10,5,2 Full,Proven (3),55,Very Rare,Core pg 174
+Mars Pattern MK IV Laspistol,Dark Heresy,Las,Pistol,70m,S/2/-,1d10+3E,0,15,Full,"Accurate, Reliable",2,Rare,1e TIH pg 178
+Merovech Pattern Assault Lasgun,"
+Rogue Trader",Las,Basic,50m,S/-/5,1d10+3E,0,120,2 Full,Reliable,4.5,Average,ItS:TEH pg 114
+Minerva-Aegis Las Carbine,Dark Heresy,Las,Basic,60m,S/4/8,1d10+2E,0,40,Full,Reliable,4,Scarce,1e TIH pg 121
+Persuader Lasgun,Rogue Trader,Las,Basic,40m,S/3/10,1d10+2E,0,30,Full,Inaccurate,3.5,Scarce,FaC pg 81
+Retribution' Long-las,Rogue Trader,Las,Basic,90m,S/-/-,1d10+3E,0,10,Full,Accurate,4,Very Rare,HA pg 50
+Scion Pattern Hellgun,OWEA,Las,Basic,70m,S/2/4,1d10+4E,7,30,2 Full,Felling (2),8,Very Rare,OWEA pg 2
+Shotlas,Rogue Trader,Las,Basic,20m,S/3/-,1d10+4E,1,40,2 Full,Special,4,Scarce,HA pg 50
+Sollex Pattern-IX “Death Light” Lasgun,Dark Heresy,Las,Basic,80m,S/3/-,1d10+5E,2,18,Full,-,7,Very Rare,1e TIH pg 121
+Sollex Pattern-VII “Steel Burner” Heavy Laspistol,Dark Heresy,Las,Pistol,30m,S/-/-,1d10+4E,2,10,Full,-,2.5,Very Rare,1e TIH pg 121
+Stutter-las,Rogue Trader,Las,Pistol,35m,S/-/5,1d10+2E,0,25,Full,Inaccurate,2,Average,HA pg 50
+Thermal Cutter,Rogue Trader,Las,Basic,20m,S/-/-,2d10+6E,10,5,2 Full,-,40,Very Rare,SoI pg 84
+Triplex Pattern Lasgun,Only War,Las,Basic,100m,S/3/-,1d10+3E,0,30,Full,-,4.5,Rare,Core pg 174
+Accatran Automatic Mortar,Only War,Launcher,Heavy,50-200m,S/-/5,†,†,5,4 Full,"Inaccurate, Indirect, †",50,Very Rare,
+Auxillary Grenade Launcher,Only War,Launcher,Basic,45m,S/-/-,†,†,1,Full,†,2.5,Scarce,Core pg 188
+Grenade Launcher,Only War,Launcher,Basic,60m,S/-/-,†,†,6,2 Full,†,12,Average,Core pg 175
+Hand Mortar,Trisdekan Primer,Launcher,Heavy,75m,S/-/-,†,†,1,2 Full,"Unreliable, †",5,Scarce,V3 pg 27
+Hellex Plasma Mortar,Mars needs women,Launcher,Heavy,30-300m,S/-/-,3d10+10X,12,20,6 Full,"Blast (8), Indirect (2), Concussive (3)",50,Near Unique,pg 63
+Igla S-IRS,Trisdekan Primer,Launcher,Heavy,350m,S/-/-,†,†,1,Full,†,40,Average,Vol 3 pg 27
+Missile Launcher,Only War,Launcher,Heavy,300m,S/-/-,†,†,1,Full,†,35,Rare,Core pg 175
+Mortar,Only War,Launcher,Heavy,50-300m,S/-/-,†,†,1,Full,"Inaccurate, Indirect (2), †",41,Rare,Core pg 175
+Rifle Grenade Launcher,Trisdekan Primer,Launcher,Basic,†,S/-/-,†,†,1,Half,"Inaccurate, Indirect (3), †",1,Common,V3 pg 33/45
+Tread Feather,Only War,Launcher,Heavy,250m,S/-/-,†,†,1,Full,"Inaccurate, †",20,Scarce,
+Voss Automatic Launcher,Only War,Launcher,Basic,40m,S/3/-,†,†,6,2 Full,"Inaccurate, †",12.5,Scarce,
+Arquebus,Dark Heresy,Low-tech,Basic,45m,S/-/-,2d10I,2,1,2 Full,"Concussive (1), Inaccurate, Unreliable",8,Common,2e EWi pg 44
+Bolas,Only War,Low-tech,Thrown,10m,S/-/-,-,0,1,-,"Inaccurate, Snare (1)",1.5,Average,Core pg 175
+Bow,Only War,Low-tech,Basic,30m,S/-/-,1d10R,0,1,Half,"Primitive (6), Reliable",2,Common,Core pg 175
+Castigator Heavy Crossbow,Dark Heresy,Low-tech,Heavy,70m,S/-/-,1d10+6I,1,14,2 Full,"Concussive (2), Reliable",12,Scarce,2e EWi pg 44
+Crossbow,Only War,Low-tech,Basic,30m,S/-/-,1d10R,0,1,2 Full,Primitive (7),3,Common,Core pg 175
+Deliverance Light Crossbow,Dark Heresy,Low-tech,Pistol,15m,S/-/-,1d10R,0,1,Half,Primitive (7),1,Rare,2e EWi pg 44
+Drake's Claw,Dark Heresy,Low-tech,Heavy,200m,S/-/-,1d10+2X,2,1,-,"Blast (3), Crippling (1), Inaccurate, Primitive (7), Tearing",6,Rare,2e EWi pg 44
+Flintlock Pistol,Only War,Low-tech,Pistol,15m,S/-/-,1d10+2I,0,1,2 Full,"Inaccurate, Primitive (8), Unreliable",3,Common,Core pg 175
+Harpoon Gun,Black Crusade,Low-tech,Heavy,40m,S/-/-,2d10+2R,0,1,4 Full,"Crippling (5), Primitive (9), Snare (1)",18,Scarce,Core pg 155
+Longbow,Trisdekan Primer,Low-tech,Basic,30m+20xSB,S/-/-,1d10+1R,1,1,Full,"Primitive (8), Reliable",2.5,Scarce,Vol 3 pg 22
+Longflame,Dark Heresy,Low-tech,Heavy,200m,S/-/-,1d10R,0,1,-,"Blast (4), Flame, Inaccurate, Primitive (8)",6,Rare,2e EWi pg 44
+Musket,Only War,Low-tech,Basic,30m,S/-/-,1d10+3I,0,1,2 Full,"Inaccurate, Primitive (8), Unreliable",7,Common,Core pg 175
+Nivan Scrap Bow,Trisdekan Primer,Low-tech,Basic,30m+10xSB,S/-/-,1d10+1+SBR,0,1,Full,"Primitive (7), Crippling (1)",10,Average,Vol 3 pg 22
+Sling,Trisdekan Primer,Low-tech,Basic,20mxSB,S/-/-,1d5+SBI,1,1,Full,Reliable,0.5,Plentiful,Vol 3 pg 22
+Snapper Repeating Rifle,Dark Heresy,Low-tech,Basic,50m,S/2/-,1d10+3I,0,8,2 Full,"Inaccurate, Overheats, Primitive (8), Unreliable",45,Very Rare,2e EWi pg 44
+Throwing Knife,Only War,Low-tech,Thrown,SBx2m,S/2/-,1d5+3R,0,-,-,Accurate,0.5,Common,
+Inferno Pistol,Only War,Melta,Pistol,10m,S/-/-,2d10+10E,12,3,Full,Melta,3,Near Unique,Core pg 174
+Melta Cutter,Rogue Trader,Melta,Basic,5m,S/-/-,3d10+8E,13,5,2 Full,"Inaccurate, Melta, Scatter",8,Rare,HA pg 50
+Meltagun,Only War,Melta,Basic,20m,S/-/-,2d10+10E,12,5,Full,Melta,15,Very Rare,Core pg 174
+Multi-Melta,Only War,Melta,Heavy,60m,S/-/-,2d10+16E,12,12,Full,"Blast (1), Melta",40,Extremely Rare,Core pg 174
+Clovis Plasma Gun,Rogue Trader,Plasma,Basic,60m,S/3/5,1d10+5E,6,40,5 Full,"Maximal, Overheats",20,Extremely Rare,ItS:TEH pg 114
+Mark III Sunfury,Dark Heresy,Plasma,Basic,80m,S/2/-,1d10+10E,6,10,2 Full,"Overheats, Recharge",12,Very Rare,1e TIH pg 178
+Nivablaster,Trisdekan Primer,Plasma,Basic,120m,S/2/-,1d10+6E,6,20,3 Full,"Discharge, Maximal",20,Very Rare,Vol 3 pg 19
+Nivablaster-H,Trisdekan Primer,Plasma,Heavy,120m,S/3/-,1d10+8E,8,20,3 Full,"Discharge, Maximal",30,Extremely Rare,Vol 3 pg 19
+Nivablotter,Trisdekan Primer,Plasma,Pistol,15m,S/2/-,1d10+5E,4,8,2 Full,"Discharge, Maximal, Scatter",5,Very Rare,Vol 3 pg 19
+Nivablotter-H,Trisdekan Primer,Plasma,Heavy,50m,S/3/-,1d10+8E,6,16,3 Full,"Discharge, Maximal, Scatter",25,Extremely Rare,Vol 3 pg 19
+Plasma Blaster,Dark Heresy,Plasma,Basic,60m,S/-/-,2d10+6E,6,6,2 Full,"Overheats, Recharge, Unreliable",20,Very Rare,1e TIH pg 178
+Plasma Cannon,Only War,Plasma,Heavy,120m,S/-/-,2d10+10E,8,16,5 Full,"Blast (1), Maximal, Overheats",40,Extremely Rare,Core pg 174
+Plasma Gun,Only War,Plasma,Basic,90m,S/2/-,1d10+7E,6,40,5 Full,"Maximal, Overheats",18,Very Rare,Core pg 174
+Plasma Pistol,Only War,Plasma,Pistol,30m,S/2/-,1d10+6E,6,10,3 Full,"Maximal, Overheats",4,Very Rare,Core pg 174
+Sentinel Plasma Rifle,Dark Heresy,Plasma,Basic,120m,S/5/10,1d10+5E,3,40,Full,Reliable,20,Extremely Rare,EWi pg 44
+Wrath Plasma Pistol,Rogue Trader,Plasma,Pistol,40m,S/-/-,1d10+8E,6,8,3 Full,"Accurate, Maximal, Overheats",5,Extremely Rare,ItS:TEH pg 114
+"""Longshot""",Only War,Solid Projectile,Heavy,350m,S/-/-,†,†,1,Full,"Accurate, †",6,Extremely Rare,SoH pg 126
+Absolution' Sniper Rifle,Rogue Trader,Solid Projectile,Basic,220m,S/-/-,1d10+4I,0,6,Full,Accurate,4,Rare,ItS:TEH pg 114
+Anti-tank Rifle,Pure Homebrew,Solid Projectile,Heavy,250m,S/-/-,2d10+10I,10,1,2 Full,-,17,Very Rare,
+Armageddon Pattern Autogun,Dark Heresy,Solid Projectile,Basic,100m,S/2/6,1d10+4I,0,15,Full,Reliable,8.5,Average,1e TIH pg 122
+Auto-Carbine,Rogue Trader,Solid Projectile,Basic,35m,-/-/5,1d10+3I,0,20,Full,Inaccurate,3,Scarce,HA pg 50
+Auto-Stubber,Rogue Trader,Solid Projectile,Basic,60m,S/3/-,1d10+4I,0,20,2 Full,"Inaccurate, Tearing, Unreliable",4,Scarce,HA pg 50
+Autocannon,Only War,Solid Projectile,Heavy,300m,S/3/-,3d10+8I,6,24,2 Full,Reliable,40,Very Rare,Core pg 174
+Autogun,Only War,Solid Projectile,Basic,100m,S/3/10,1d10+3I,0,30,Full,-,5,Average,Core pg 174
+Autopistol,Only War,Solid Projectile,Pistol,30m,S/-/6,1d10+2I,0,18,Full,-,1.5,Average,Core pg 174
+Blackhammer Shotgun,Dark Heresy,Solid Projectile,Basic,20m,S/-/-,2d10I,0,1,2 Full,"Inaccurate, Scatter",5,Rare,1e TIH pg 122
+Boarding Gun,Rogue Trader,Solid Projectile,Basic,30m,S/3/-,1d10+5I,1,3,2 Full,"Inaccurate, Reliable, Scatter",6,Scarce,HA pg 50
+Carnodon Hand Cannon,Dark Heresy,Solid Projectile,Pistol,35m,S/3/-,1d10+4I,2,6,Full,Accurate,2.5,Scarce,1e TIH pg 122
+Delileus Commando Stubber,Trisdekan Primer,Solid Projectile,Basic,200m,S/3/-,1d10+4I,2,10,Full,"Infiltrator, Reliable",4,Rare,Vol 3 pg 17
+Echon Pattern MkIII Assault Stubber,Rogue Trader,Solid Projectile,Heavy,100m,-/-/6,1d10+4I,3,200,2 Full,Storm,21,Average,ItS:TEH pg 114
+Hand Cannon,Only War,Solid Projectile,Pistol,35m,S/-/-,1d10+4I,2,5,2 Full,-,3,Scarce,Core pg 174
+Heavy Stubber,Only War,Solid Projectile,Heavy,100m,-/-/8,1d10+4I,3,80,2 Full,-,30,Rare,Core pg 174
+Lucius-pattern Mk22c Shotgun,Rogue Trader,Solid Projectile,Basic,30m,S/3/-,1d10+5I,0,8,2 Full,"Scatter, Unreliable",5.5,Scarce,FaC pg 82
+Naval Pistol,Only War,Solid Projectile,Pistol,20m,S/3/-,1d10+4I,0,6,Full,Tearing,3,Rare,
+Nomad,Dark Heresy,Solid Projectile,Basic,250m,S/-/-,1d10+5I,3,4,Full,"Accurate, Reliable",10,Very Rare,1e TIH pg 122
+Orthlack Heavy Stubber,Rogue Trader,Solid Projectile,Heavy,120m,-/-/10,1d10+5I,3,200,2 Full,-,35,Average,Core pg 118
+Razorhail Gun,Rogue Trader,Solid Projectile,Basic,35m,S/-/-,1d10+2R,1,1,Full,"Scatter, Tearing",5,Average,HA pg 50
+Ripper Gun,Only War,Solid Projectile,Heavy,30m,S/-/6,1d10+8I,0,48,2 Full,Scatter,35,Common,Core pg 174
+Ripper Pistol,Only War,Solid Projectile,Pistol,30m,S/2/-,1d10+3I,5,8,Full,"Tearing, Toxic (2)",4,Extremely Rare,
+Rotor Cannon,Mars needs women,Solid Projectile,Heavy,150m,-/6/10,1d10+6I,3,200,3 Full,Tearing,40,Rare,pg 41
+Shotcannon,Dark Heresy,Solid Projectile,Heavy,40m,S/3/-,2d10I,0,24,2 Full,"Scatter, Unreliable",7,Scarce,1e TIH pg 162
+Shotgun,Only War,Solid Projectile,Basic,30m,S/-/-,1d10+4I,0,8,2 Full,Scatter,5,Average,Core pg 174
+Shotgun (Combat),Only War,Solid Projectile,Basic,30m,S/3/-,1d10+4I,0,18,Full,Scatter,6.5,Scarce,Core pg 174
+Shotgun (Persecutor),Rogue Trader,Solid Projectile,Basic,35m,S/3/-,1d10+4I,0,20,Full,"Reliable, Scatter",6,Rare,HA pg 50
+Sniper Rifle,Only War,Solid Projectile,Basic,200m,S/-/-,1d10+4I,3,20,Full,"Accurate, Reliable",5,Scarce,Core pg 174
+Stub Automatic,Only War,Solid Projectile,Pistol,30m,S/3/-,1d10+3I,0,9,Full,-,1.5,Average,Core pg 174
+Stub Revolver,Only War,Solid Projectile,Pistol,30m,S/-/-,1d10+3I,0,6,2 Full,Reliable,1.5,Plentiful,Core pg 174
+Stub Rifle,Black Crusade,Solid Projectile,Basic,120m,S/-/-,1d10+3I,1,5,Full,Accurate,5.5,Average,Core pg 155
+Ursid Heavy Stubber,Rogue Trader,Solid Projectile,Heavy,120m,-/-/10,1d10+5I,3,40,Full,-,35,Scarce,Core pg 118
+Welreus Commando Pistol,Trisdekan Primer,Solid Projectile,Pistol,20m,S/-/-,1d10+3I,0,8,Full,"Infiltrator, Reliable",1,Rare,Vol 3 pg 17
