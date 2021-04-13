@@ -62,6 +62,13 @@
       "module": "dh-compendium",
       "path": "./packs/dh-special-ammunition.db",
       "entity": "Item"
+    },
+    {
+      "name": "dh-tools",
+      "label": "Dark Heresy Tools",
+      "module": "dh-compendium",
+      "path": "./packs/dh-tools.db",
+      "entity": "Item"
     }
   ],
   "url": "This is auto replaced",
